@@ -65,3 +65,10 @@ build/config\.gypi
 .npmrc
 pnpm-lock.yaml
 /.history
+
+# local env files
+.env*.local
+.env
+.env.development.local
+.env.test.local
+.env.production.local
